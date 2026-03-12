@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+logs/
+chat_labels.json
+token_history.jsonl
+
