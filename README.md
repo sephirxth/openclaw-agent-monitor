@@ -19,6 +19,13 @@ The built-in OpenClaw dashboard is useful as a control plane. This project is op
 
 That is why the UI emphasizes token movement, recent activity, and operator-friendly feedback instead of generic session management.
 
+## When to Use This
+
+- You run OpenClaw agents and need a quick visual check on whether each agent is active, idle, or stuck
+- You want real-time token consumption tracking across multiple agents
+- You need an operator-friendly dashboard focused on activity status rather than session management
+- You are debugging agent behavior and need to see live tool calls and message flow
+
 ## Project Layout
 
 ```text
