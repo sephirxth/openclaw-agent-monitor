@@ -117,3 +117,13 @@ on a 1-minute cron.
 - This project is intentionally simple: one Python server and one static HTML page.
 - The UI is tuned for operational feedback, not visual polish alone.
 - Some data quality depends on how completely OpenClaw session metadata is persisted in your environment.
+
+## Related Projects
+
+| Project | What It Does |
+|---------|-------------|
+| [OpenClaw Canvas](https://github.com/sephirxth/openclaw-canvas) | Full infinite-canvas dashboard — if you need task assignment, TODO management, and spatial layout on top of monitoring |
+| [WitMani Game Animator](https://github.com/sephirxth/WitMani-game-animator) | AI sprite sheet generator — Claude Code plugin for game character animations |
+| [LLM Code Test](https://github.com/sephirxth/LLM_code_test) | Benchmark comparing Claude, Gemini, DeepSeek, Grok on code generation |
+
+[All projects →](https://github.com/sephirxth)
